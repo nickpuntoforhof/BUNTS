@@ -1,0 +1,18 @@
+BUNTS
+
+
+Baseball-Reference Play Index Event Finder:
+- Sacrifice Bunts
+- Sacrifice Bunt Attempts
+
+Baseball Savant:
+Pitch Result:
+- Foul Bunt
+- Missed Bunt
+PA Result:
+- Sac Bunt
+- Sac Bunt Double Play
+
+
+Are players who bunt more often better at bunting?
+What is the performance of the batter in at bats with a bunt attempt?
