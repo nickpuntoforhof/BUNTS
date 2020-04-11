@@ -138,4 +138,3 @@ bunts_situation <- merge(bunts, bev_all, by.x = c("game_date","home_team","away_
 # Bunts_situation is the data we need for analysis! Write bunts_situation to an R data object.
 save(bunts_situation, file = paste0(statcast_dir, "bunts.RDATA"))
 write.csv(bunts_situation, file = paste0(statcast_dir, "bunts.csv"), row.names = FALSE)
-
